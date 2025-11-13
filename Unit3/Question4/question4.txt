@@ -1,0 +1,6 @@
+Write a java program to create two packages namely SUMPACKAGE 
+and MULPACKAGE. Each of these packages contains these two 
+methods 
+setdata():- to set values of data members 
+calc_data():- to calculate and display sum and product of two 
+numbers. Both the packages should be at same level. 
