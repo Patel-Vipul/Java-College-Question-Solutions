@@ -1,0 +1,7 @@
+Q5 Write a program that accepts a string from command line and 
+perform following operations: 
+1. Display each character on separate line in reverse order. 
+2. Count total number of characters and display each character's 
+position too. 
+3. Identify that whether the string is palindrome or not. 
+Count total number of uppercase and lowercase characters in it. 

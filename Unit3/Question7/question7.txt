@@ -1,0 +1,4 @@
+Write a java program to store a string STR = “Hello, Good 
+Morning”.Find and display the length of the string. Replace the word 
+“Morning” by “Evening” and display the new string (use 
+StringBufffer class) 

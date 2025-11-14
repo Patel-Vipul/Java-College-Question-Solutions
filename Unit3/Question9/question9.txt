@@ -1,0 +1,6 @@
+Write a java program to accept a string from user and perform the 
+following menu driven operations(using methods of String class) 
+1.Display string in uppercase 
+2.Display string in lowercase 
+3.Check for equality with another string 
+4.Display substring from a given string 
