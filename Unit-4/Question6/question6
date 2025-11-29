@@ -1,0 +1,6 @@
+Write an application that starts two thread. First thread displays 
+even numbers in the range specified from the command line and 
+second thread displays odd numbers in the same range. Each 
+thread waits for 300 milliseconds before displaying the next 
+numbers. The application waits for both the thread to finish and 
+then displays the message “Both threads completed”. 

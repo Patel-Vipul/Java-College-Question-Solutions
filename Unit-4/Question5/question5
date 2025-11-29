@@ -1,0 +1,3 @@
+Write a program that accepts 5 even numbers from command 
+line , if any of the numbers is odd then throw custom exception 
+OddException and count such invalid numbers. 

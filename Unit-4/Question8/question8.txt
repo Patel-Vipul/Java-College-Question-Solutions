@@ -1,0 +1,4 @@
+Q8. Write a java program to create 2 threads each thread calculates 
+the sum and average of 1 to 10 and 11 to 20 respectively. After all 
+thread finish, main thread should print message “ Task 
+Completed”. Write this program with use of runnable interface. 

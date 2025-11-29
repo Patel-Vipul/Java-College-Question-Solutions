@@ -1,0 +1,5 @@
+Write a program which takes the age of 5 persons from command 
+line and find the average age of all persons. The program should 
+handle exception if the argument is not correctly formatted and 
+custom exception if the age is not 
+between 1 to 100. 

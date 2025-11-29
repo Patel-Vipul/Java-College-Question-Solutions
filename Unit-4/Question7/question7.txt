@@ -1,0 +1,5 @@
+Q7.Write a program that create and starts five threads. Each thread 
+is instantiated from the same class. It executes a loop with ten 
+iterations. Each iteration displays the character 'x' and sleep for 
+500 milliseconds. The application waits for all threads to complete 
+and then display a message ‘hello’ 

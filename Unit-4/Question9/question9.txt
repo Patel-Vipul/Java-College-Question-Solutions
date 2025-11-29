@@ -1,0 +1,3 @@
+Create two thread. One thread print ‘fybca’ 4 times and another 
+thread print ‘sybca’ 6 times. Set priority for both thread and when 
+thread finished print ‘tybca’ from main. 

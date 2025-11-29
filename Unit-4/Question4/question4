@@ -1,0 +1,10 @@
+Write an application that converts between meters and feet. Its 
+first command- line argument is a number and second command 
+line argument is either "centimeter" or "meter". If the argument 
+equals "centimeter" displays a string reporting the equivalent 
+number of meters. If this argument equals "meters", display a 
+string reporting the equivalent number of centimeter. If unit is 
+not given properly then generate custom exception 
+Unitformatexception. If first argument is not proper format then 
+generate numberformatexception. Generate other exception as 
+per requirements. (1 meter=100 centimeter) 

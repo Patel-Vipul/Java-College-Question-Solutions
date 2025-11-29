@@ -1,0 +1,5 @@
+Write an application that starts two threads. Set priorities of both 
+threads as 8 and 4 respectively. Each thread executes a loop with 
+5 iterations displaying its thread name. Demonstrate the 
+execution of a high priority thread and how it delays the 
+execution of low priority thread. 

@@ -1,0 +1,3 @@
+Q1.Write a Java program to input n integer numbers and display 
+lowest and second lowest number. Also handle the different 
+exceptions possible to be thrown during execution. 
